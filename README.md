@@ -1,4 +1,4 @@
-# python-api-challenge
+# geo-mapping-with-apis
 
 Part I - WeatherPy
 
@@ -27,16 +27,17 @@ Part II - VacationPy
 
 Now I'll use my skills in working with weather data to plan future vacations. I will use jupyter-gmaps and the Google Places API for this part of the assignment.
 
-    
+
 To complete this part of the assignment, I will do the following:
 
     Create a heat map that displays the humidity for every city from Part I.
-
+    
     Narrow down the DataFrame to find an ideal weather condition.
-
+    
     Use Google Places API to find the first hotel for each city located within 5000 meters of coordinates.
-
+    
     Plot the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
 
-    
+
+​    
 
