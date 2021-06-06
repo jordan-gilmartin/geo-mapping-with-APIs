@@ -56,3 +56,8 @@ To complete this part of the assignment, I will do the following:
 
 ​    
 
+![Heat Map](VacationPy/Output-VacationPy/HeatmapAllCities.png)
+
+
+
+![Heat Map with Markers](VacationPy/Output-VacationPy/HeatmapFinalwithMarkers.jpg)
