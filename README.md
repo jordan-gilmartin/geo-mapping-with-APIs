@@ -15,6 +15,8 @@ The first requirement is to create a series of scatter plots to showcase the fol
 
 ![Humidity vs Lat](WeatherPy/Output-WeatherPy/LatvsHumidity.png)
 
+![Cloudiness vs Lat](WeatherPy/Output-WeatherPy/LatvsCloudiness.png)
+
 
 
 
