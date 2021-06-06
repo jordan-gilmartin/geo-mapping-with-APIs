@@ -17,7 +17,7 @@ The first requirement is to create a series of scatter plots to showcase the fol
 
 ![Cloudiness vs Lat](WeatherPy/Output-WeatherPy/LatvsCloudiness.png)
 
-
+![WindSpeed vs Lat](WeatherPy/Output-WeatherPy/LatvsWindSpeed.png)
 
 
 
@@ -31,6 +31,11 @@ The second requirement is to run linear regression on each relationship. This ti
     Southern Hemisphere - Cloudiness (%) vs. Latitude
     Northern Hemisphere - Wind Speed (mph) vs. Latitude
     Southern Hemisphere - Wind Speed (mph) vs. Latitude
+
+![Temp vs Lat Regression](WeatherPy/Output-WeatherPy/LatvsTemp - Regression - Northern Hem.png)
+
+
+
 
 
 Part II - VacationPy
