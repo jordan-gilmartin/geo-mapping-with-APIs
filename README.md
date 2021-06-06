@@ -13,7 +13,7 @@ The first requirement is to create a series of scatter plots to showcase the fol
 
 ![Temp vs Lat](WeatherPy/Output-WeatherPy/LatvsTemp.png)
 
-
+![Humidity vs Lat](WeatherPy/Output-WeatherPy/LatvsHumidity.png)
 
 
 
