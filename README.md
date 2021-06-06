@@ -32,7 +32,7 @@ The second requirement is to run linear regression on each relationship. This ti
     Northern Hemisphere - Wind Speed (mph) vs. Latitude
     Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
-![Temp vs Lat Regression](WeatherPy/Output-WeatherPy/LatvsTemp - Regression - Northern Hem.png)
+![Temp vs Lat Regression](WeatherPy/Output-WeatherPy/LatvsTempRegressionNorthernHem.png)
 
 
 
